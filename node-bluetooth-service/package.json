@@ -1,0 +1,10 @@
+{
+  "name": "node-bluetooth-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-15",
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.3"
+  }
+}

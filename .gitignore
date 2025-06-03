@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.env
+
+# Laravel
+/vendor
+/.env
+/.env.*.backup
+/storage/*.key
+/storage/app/public/*
+/bootstrap/cache/*
+
+# IDE/Editor
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
